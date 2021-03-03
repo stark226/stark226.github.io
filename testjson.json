@@ -1,0 +1,18 @@
+{
+    "configVersion": 1,
+    "androidUpdate": {
+        "force": true,
+        "text": "devi aggiornare",
+        "url": "www.google.it",
+        "versionCode": 6654,
+        "minAcceptableVersion": 8064
+    },
+    "iosUpdate": {
+        "force": true,
+        "text": "devi aggiornare",
+        "url": "www.google.it",
+        "build": 5344,
+        "minAcceptableVersion": 5344
+    },
+    "tokenDuration": 82800
+}
